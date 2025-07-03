@@ -52,6 +52,9 @@ The analysis combined:
 
 &nbsp; - Auto-Regression
 
+\## my role
+
+\- all the work done in the excel spreadsheet
 
 
 \## 📈 Results (highlights)
