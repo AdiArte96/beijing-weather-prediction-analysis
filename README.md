@@ -15,6 +15,8 @@
 This project analyzes weather conditions and pollution levels in Beijing using data collected by the US embassy. The goal: build predictive models and provide insights useful for both citizens and businesses to plan activities around weather and pollution forecasts.
 
 
+> ⚡ **Excel file contains actual formulas** used for outlier detection, quartile calculation, piecewise regression, and forecasting.
+
 
 \## 👩‍💻 Team
 
